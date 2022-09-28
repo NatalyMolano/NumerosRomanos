@@ -1,0 +1,15 @@
+D:\NumerosRomanos\NumerosRomanos\bin\Debug\net6.0\NumerosRomanos.exe
+D:\NumerosRomanos\NumerosRomanos\bin\Debug\net6.0\NumerosRomanos.deps.json
+D:\NumerosRomanos\NumerosRomanos\bin\Debug\net6.0\NumerosRomanos.runtimeconfig.json
+D:\NumerosRomanos\NumerosRomanos\bin\Debug\net6.0\NumerosRomanos.dll
+D:\NumerosRomanos\NumerosRomanos\bin\Debug\net6.0\NumerosRomanos.pdb
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.csproj.AssemblyReference.cache
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.AssemblyInfoInputs.cache
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.AssemblyInfo.cs
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.csproj.CoreCompileInputs.cache
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.dll
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\refint\NumerosRomanos.dll
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.pdb
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\NumerosRomanos.genruntimeconfig.cache
+D:\NumerosRomanos\NumerosRomanos\obj\Debug\net6.0\ref\NumerosRomanos.dll
